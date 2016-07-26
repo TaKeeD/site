@@ -8,7 +8,7 @@ description: >
 baseurl: "/site"
 url: "http://alexcarpenter.me"
 fixedNav: 'true' # true or false
-theme: blue # green, blue, orange, purple, grey
+theme: orange # green, blue, orange, purple, grey
 twitterUsername: hybrid_alex
 githubUsername: alexcarpenter
 dribbbleUsername:
